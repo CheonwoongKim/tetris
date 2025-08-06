@@ -1,0 +1,4 @@
+// package.json
+"scripts": {
+  "build": "vite build"
+}
